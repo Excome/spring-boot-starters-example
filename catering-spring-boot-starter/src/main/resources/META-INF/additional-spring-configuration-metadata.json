@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "name": "catering.enabled",
+      "description": "Включить кейтеринг."
+    },
+    {
+      "name": "catering.main-meal",
+      "type": "java.lang.Boolean",
+      "description": "Нужно ли главное блюдо.",
+      "defaultValue": true
+    },
+    {
+      "name": "catering.servings-count",
+      "description": "Количество порций.",
+      "defaultValue": 3
+    },
+    {
+      "name": "catering.snack",
+      "type": "java.lang.Boolean",
+      "description": "Нужны ли закуски.",
+      "defaultValue": false
+    }
+  ]
+}

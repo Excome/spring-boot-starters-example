@@ -1,0 +1,5 @@
+catering:
+  enabled: true
+  servings-count: 5
+  main-meal: true
+  snack: false
